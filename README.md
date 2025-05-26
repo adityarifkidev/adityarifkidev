@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently focused on:
+🔭 Currently focused on<br>
 I'm actively working on exciting web development projects, including frontend and backend solutions using modern frameworks.<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
