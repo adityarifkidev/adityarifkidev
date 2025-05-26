@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 Currently focused on<br>
-I'm actively working on exciting web development projects, including frontend and backend solutions using modern frameworks.<br><br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+I'm actively working on exciting web development projects, including frontend and backend solutions using modern frameworks.<br><br>👯 I’m looking to collaborate on<br>I'm looking to team up on innovative and impactful open-source or startup-oriented projects.<br><br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
