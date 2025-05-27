@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Aditya Rifki Nugroho
+# Hi, I'm Aditya Rifki Nugroho<br>
 🔭 Currently focused on<br>
 I'm actively working on exciting web development projects, including frontend and backend solutions using modern frameworks.<br><br>👯 Open to collaboration<br>I'm looking to team up on innovative and impactful open-source or startup-oriented projects.<br><br>🤝 Seeking guidance on<br>I'm exploring deeper topics in full-stack development and would appreciate mentorship or collaboration from experienced developers.<br><br>💬 Feel free to ask me about<br>Web development (especially with Laravel, Next.js, Tailwind), Git workflow, or building scalable UI/UX components.<br><br>⚡ Fun fact<br>I love turning complex ideas into clean, functional interfaces—and I never say no to a good cup of coffee while coding!
 
