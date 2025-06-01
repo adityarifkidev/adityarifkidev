@@ -1,8 +1,4 @@
-# 💫 About Me:
-# Hi, I'm Aditya Rifki Nugroho<br>
-# I'm UI/UX Designer
-🔭 Currently focused on<br>
-I'm actively working on exciting in web development projects and UI/UX Designer, including frontend and backend solutions using modern frameworks.<br><br>👯 Open to collaboration<br>I'm looking to team up on innovative and impactful open-source or startup-oriented projects.<br><br>🤝 Seeking guidance on<br>I'm exploring deeper topics in full-stack development and would appreciate mentorship or collaboration from experienced developers.<br><br>💬 Feel free to ask me about<br>Web development (especially with Laravel, Next.js, Tailwind), Git workflow, or building scalable UI/UX components.<br><br>⚡ Fun fact<br>I love turning complex ideas into clean, functional interfaces—and I never say no to a good cup of coffee while coding!!
+Hi, I'm Aditya Rifki Nugroho, a web developer with over 1 year of experience specializing in UI/UX and web application development. I’ve handled 10 projects focused on creating user-friendly interfaces and delivering optimal functionality. I value clear and honest communication, and I’m passionate about solving problems with attention to detail. I enjoy working in collaborative environments and continuously strive to grow by keeping up with the latest industry trends and standards.
 
 
 ## 🌐 Socials:
