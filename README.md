@@ -7,6 +7,7 @@ Hi, I'm Aditya Rifki Nugroho, a web developer with over 1 year of experience spe
 Technical Skills: <br>
 💻 Languages: PHP, Javascript<br>
 🖌️ Styling: HTML, CSS, Javascript, React, Laravel Blade, Laravel Livewire, Bootstrap, Tailwind<br>
+Tools: VS Code, Figma, Adobe Illustrator<br>
 # 📊 GitHub Stats:
 
 ![](https://nirzak-streak-stats.vercel.app/?user=adityarifkidev&theme=radical&hide_border=false)<br/>
